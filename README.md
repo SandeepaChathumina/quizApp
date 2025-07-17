@@ -42,8 +42,4 @@ style.css – Styling for layout and buttons
 
 script.js – Logic to handle questions and answers
 
-✍️ Made By
-
-Sandeepa (Sandy)
-
-Built this to practice JavaScript during my free time
+I built this to practice JavaScript during my free time
